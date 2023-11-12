@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'stanwebapp001'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA20C96D3D304BBE946115DF72FA8659 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_66E1A31EF0AC43AE914437F6225FBD2E }}
           package: .
